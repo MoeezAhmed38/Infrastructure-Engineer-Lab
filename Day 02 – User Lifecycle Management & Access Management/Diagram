@@ -1,0 +1,26 @@
+                         Employee Lifecycle
+
+                           HR Request
+                                │
+                                ▼
+
+        ┌──────────────┬──────────────┬
+        │              │              │
+        ▼              ▼              ▼
+
+   Onboarding      Transfer      Offboarding
+        │              │              │
+        ▼              ▼              ▼
+
+ Create User    Modify Groups   Block Sign-In
+ Assign Access  Update Access   Reset Password
+ Assign Groups  Verify Access   Retain Data
+
+        └──────────────┬──────────────┘
+                       ▼
+
+                 Access Review
+                       │
+                       ▼
+
+                Security Validation
