@@ -1,1 +1,38 @@
+                    FutureTech Solutions
+                            │
+      ┌─────────────────────┼─────────────────────┐
+      │                     │                     │
+      ▼                     ▼                     ▼
 
+   Microsoft            Security           Administrative
+   Entra ID             Groups                Roles
+      │                    │                     │
+      │                    │                     │
+      ▼                    ▼                     ▼
+
+  IT-Team           M365-License         Helpdesk Admin
+  HR-Team           VPN-Users            User Administrator
+  Finance-Team      Intune-Managed
+  Operations-Team
+
+      │
+      │
+      ▼
+
+    Users
+
+ ┌───────────────┐
+ │ john.it       │ → IT-Team
+ └───────────────┘
+
+ ┌───────────────┐
+ │ sarah.hr      │ → HR-Team
+ └───────────────┘
+
+ ┌───────────────┐
+ │ michael.finance│ → Finance-Team
+ └───────────────┘
+
+ ┌───────────────┐
+ │ emma.ops      │ → Operations-Team
+ └───────────────┘
